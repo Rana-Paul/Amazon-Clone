@@ -7,8 +7,8 @@
 }
 
 .login__logo {
-    margin-top: 21px;
-    margin-bottom: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     width: 100px;
     object-fit: contain;
 
@@ -20,12 +20,12 @@
     flex-direction: column;
     padding: 20px;
     height: fit-content;
-    border: 1px solid lightgray;
+    border: 2px solid lightgray;
 }
 
 .login__container > h1 {
     font-weight: 500;
-    margin-bottom: 20px;
+    margin-bottom: 21px;
 }
 
 .login__container > form > h5 {
